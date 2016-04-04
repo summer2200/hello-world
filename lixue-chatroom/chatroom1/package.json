@@ -1,0 +1,17 @@
+{
+  "name": "chatroom1",
+  "version": "0.0.0",
+  "description": "chatroom1",
+  "main": "app.js",
+  "author": {
+    "name": "sli365",
+    "email": "summer.li@pwc.com"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "socket.io": "^1.4.5",
+    "stylus": "*",
+    "mongodb": "^1.4.10"
+  }
+}
